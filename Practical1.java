@@ -30,3 +30,4 @@ class Person
     System.out.println("Average age: " + averageAge);
         }
     }
+    
